@@ -7,7 +7,7 @@ Performance Analysis of Multithreading and Asyncio
 
 Детальніше про роботу - Asyncio_example.py
 
-      Дані для дослідження: <a href="https://example.com" target="_blank">Перейти на сайт</a>
+      Дані для дослідження: [Перейти на сайт](https://example.com)
       1) Дано 9 WEB сторінок, 2-а неіснуюча.
       
       Дослідження:
